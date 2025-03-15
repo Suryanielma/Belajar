@@ -1,4 +1,4 @@
-#Percobaan commit GitHub
+# git aPercobaan commit GitHub
 
 1. Buat remote repository di GitHubBuat 
 2. Buat folder baru dan buka pada vscode
