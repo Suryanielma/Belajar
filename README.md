@@ -1,4 +1,4 @@
-# git aPercobaan commit GitHub
+# Langkah-langkah mengupload file pada GitHub
 
 1. Buat remote repository di GitHubBuat 
 2. Buat folder baru dan buka pada vscode
